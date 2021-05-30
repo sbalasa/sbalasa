@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbalasa" alt="sbalasa" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js** and **Computational Mathematics**
 
 - 💬 Ask me about **C, C++, Python, Django, Flask, HTML, CSS, JavaScript, jQuery, Ajax, Vue.js, Node.js**
 
