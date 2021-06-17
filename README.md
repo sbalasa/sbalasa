@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js** and **Computational Mathematics**
 
-- 💬 Ask me about **C, C++, Python, Django, Flask, HTML, CSS, JavaScript, jQuery, Ajax, Vue.js, Node.js**
+- 💬 Ask me about **C, C++, Python, Django, Flask, HTML, CSS, JavaScript, jQuery, Ajax, React.js, Node.js**
 
 - 📫 How to reach me **santhosh.kbr@gmail.com**
 
