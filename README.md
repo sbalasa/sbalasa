@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbalasa" alt="sbalasa" /></a> </p>
 
-- 🌱 I’m currently learning **React.js** and **Redux.js**
+- 🌱 I’m currently learning **Kubernetes, Terraform, Helm, React.js and Redux.js**
 
-- 💬 Ask me about **C, C++, Python, Django, Flask, HTML, CSS, JavaScript, jQuery, Ajax, React.js, Redux.js, Node.js**
+- 💬 Ask me about **C, C++, Python, Django, Flask, HTML, CSS, JavaScript, jQuery, Ajax, React.js, Redux.js, Node.js, SQL, NoSQL, Docker, Kubernetes, Terraform and Helm**
 
 - 📫 How to reach me **santhosh.kbr@gmail.com**
 
-- ⚡ Fun fact **I love chess, long drives, traveling**
+- ⚡ Fun fact **I love chess, long drives, and traveling (Visited US, UK, Ireland, Italy, Spain, Singapore, Indonesia and Thailand)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
