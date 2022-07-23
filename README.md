@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **santhosh.kbr@gmail.com**
 
-- ⚡ Fun fact **I love chess, long drives, and traveling (Visited US, UK, Ireland, Italy, Spain, Singapore, Indonesia and Thailand)**
+- ⚡ Fun fact **I love chess, long drives, and traveling (Visited US, UK, Ireland, Italy, Spain, Singapore, Indonesia, Thailand, Russia and UAE)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
