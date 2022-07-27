@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Terraform, Helm, React.js and Redux.js**
 
-- 💬 Ask me about **C, C++, Python, Django, Flask, HTML, CSS, JavaScript, jQuery, Ajax, React.js, Redux.js, Node.js, SQL, NoSQL, Docker, Kubernetes, Terraform and Helm**
+- 💬 Ask me about **C, C++, Python, Django, Flask, FastAPI, Typer, HTML, CSS, JavaScript, jQuery, Ajax, React.js, Redux.js, Node.js, SQL, NoSQL, Docker, Kubernetes, Terraform and Helm**
 
 - 📫 How to reach me **santhosh.kbr@gmail.com**
 
