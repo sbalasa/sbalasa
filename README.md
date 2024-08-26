@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbalasa" alt="sbalasa" /></a> </p>
 
-- 🌱 I’m currently learning **Apache Doris and Flink**
+- 🌱 I’m currently learning **Nim language**
 
 - 💬 Ask me about **C, C++, Python, Django, Flask, FastAPI, Typer, HTML, CSS, JavaScript, jQuery, Ajax, React.js, Redux.js, Node.js, SQL, NoSQL, Docker, Kubernetes, Terraform, Helm and Nim**
 
