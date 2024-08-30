@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nim language**
 
-- 💬 Ask me about **C, C++, Python, Django, Flask, FastAPI, Typer, HTML, CSS, JavaScript, jQuery, Ajax, React.js, Redux.js, Node.js, SQL, NoSQL, Docker, Kubernetes, Terraform, Helm and Nim**
+- 💬 Ask me about **C, C++, Python, Django, Flask, FastAPI, Typer, HTML, CSS, JavaScript, TypeScript, jQuery, Ajax, React.js, Redux.js, Node.js, SQL, NoSQL, Docker, Kubernetes, Terraform, Helm and Nim**
 
 - 📫 How to reach me **santhosh.kbr@gmail.com**
 
